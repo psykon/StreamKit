@@ -53,14 +53,23 @@ Scene intended to show slides from a partysystem. Edit the contained browser sou
 ### Show (F2)
 Shows the Output of a VLC instance on the same machine or on the same network. Edit the *VLC-NDI* Source and select the VLC instance you want to show (vlc needs to be running and it's output needs to be set to NDI)
 
+### Slide-Rotation (F3)
+Shows a selection of images, or all images in one or multiple directories in a automated and randomized slideshow. You can add images/dirs and change te slideshow options by doubleclicking on the *SlideRotation* source.
+
 ### Browser (F5)
 This is just another scene with a browser source. 
+
+### _Background
+This is just a simple background image, intended to be included into other scenes (like a countdown scene by combining _Background and _Countdown).
 
 ### _TextSource
 This scene is intended to be included into other scenes. It will show the text content of the File *C:\Users\Public\Documents\OBS_Assets\Message.txt*. 
 
 ### _CountDown 
 This scene is intended to be included into other scenes (with the "scene" source) and displays a countdown. The countdown can be controlled through the "Countdown" dock on the lower right of the UI.  
+
+### _StationBug
+This scene displays the SP logo on the top right corner (or wherever you want to place it). It serves the role of a Station Bug (like for tv stations). It can be included into different scenes and is currently part of the Slides, Browser and Slide-Roation scenes. It can be turned on and off (globally) with *F9*.
 
 
 
