@@ -59,6 +59,11 @@ Shows a selection of images, or all images in one or multiple directories in a a
 ### Browser (F5)
 This is just another scene with a browser source. 
 
+### Conference (F6)
+This scene is intended to show conference calls for up to four participants. This utilizes vdo.ninja for a completely browser based solution with easy integration into obs. Read the getting started guide here: https://docs.vdo.ninja/getting-started
+
+After that, create a new room and add the room name to the URL entered in the "vdo.ninja Group Scene" source (double click on it to get to the settings)/
+
 ### _Background
 This is just a simple background image, intended to be included into other scenes (like a countdown scene by combining _Background and _Countdown).
 
