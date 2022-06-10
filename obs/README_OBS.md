@@ -76,6 +76,9 @@ This scene is intended to be included into other scenes (with the "scene" source
 ### _StationBug
 This scene displays the SP logo on the top right corner (or wherever you want to place it). It serves the role of a Station Bug (like for tv stations). It can be included into different scenes and is currently part of the Slides, Browser and Slide-Roation scenes. It can be turned on and off (globally) with *F9*.
 
+### _BG_Music
+This scene is intendet to be included into other scenes (sliderotation, etc) to play some background music. You can add files and folders with music to it's playlist, or a url to a live stream. Currently it is setup to play scenesat. The source can be muted and unmuted globally with *F10*
+
 
 
 
