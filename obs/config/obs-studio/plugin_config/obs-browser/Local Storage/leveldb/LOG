@@ -1,2 +1,3 @@
-2023/01/10-15:08:28.914 69a4 Creating DB S:\StreamKitPlayground\config\obs-studio\plugin_config\obs-browser\Local Storage\leveldb since it was missing.
-2023/01/10-15:08:28.924 69a4 Reusing MANIFEST S:\StreamKitPlayground\config\obs-studio\plugin_config\obs-browser\Local Storage\leveldb/MANIFEST-000001
+2023/01/28-15:20:18.569 9280 Reusing MANIFEST S:\StreamKitPlayground\config\obs-studio\plugin_config\obs-browser\Local Storage\leveldb/MANIFEST-000001
+2023/01/28-15:20:18.571 9280 Recovering log #3
+2023/01/28-15:20:18.571 9280 Reusing old log S:\StreamKitPlayground\config\obs-studio\plugin_config\obs-browser\Local Storage\leveldb/000003.log 
