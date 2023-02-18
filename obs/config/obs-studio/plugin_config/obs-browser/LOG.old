@@ -1,2 +1,3 @@
-2023/01/10-15:08:28.455 517c Creating DB S:\StreamKitPlayground\config\obs-studio\plugin_config\obs-browser since it was missing.
-2023/01/10-15:08:28.469 517c Reusing MANIFEST S:\StreamKitPlayground\config\obs-studio\plugin_config\obs-browser/MANIFEST-000001
+2023/02/16-14:56:43.813 9c34 Reusing MANIFEST S:\StreamKitPlayground\config\obs-studio\plugin_config\obs-browser/MANIFEST-000001
+2023/02/16-14:56:43.814 9c34 Recovering log #3
+2023/02/16-14:56:43.814 9c34 Reusing old log S:\StreamKitPlayground\config\obs-studio\plugin_config\obs-browser/000003.log 
